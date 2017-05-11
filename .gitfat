@@ -1,0 +1,3 @@
+[rsync]
+remote = localhost:/remotefat
+options = -z --compress-level=1
